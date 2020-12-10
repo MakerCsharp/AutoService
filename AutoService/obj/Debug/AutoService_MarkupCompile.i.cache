@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-C:\Users\lolgu\source\repos\AutoService\AutoService\obj\Debug\
+C:\Users\User\Desktop\AutoService\AutoService\obj\Debug\
 AutoService
 none
 false
 DEBUG;TRACE
-C:\Users\lolgu\source\repos\AutoService\AutoService\App.xaml
+C:\Users\User\Desktop\AutoService\AutoService\App.xaml
 3-1064823763
 21734023987
-362092176669
-191890568709
+36-480293782
+19-861905278
 MainWindow.xaml;PageClients\PageEditClient.xaml;PageClients\PageListClients.xaml;
 
-True
+False
 
